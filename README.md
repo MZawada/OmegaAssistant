@@ -1,2 +1,2 @@
 # OmegaAssistant
-# My 1st project created in Python 
+# Project created in Python by Marcin Zawada
